@@ -1,0 +1,11 @@
+import os
+LLVM_ROOT='/em/clang'
+NODE_JS='/em/node'
+EMSCRIPTEN_ROOT='/em/emscripten'
+EMSCRIPTEN_NATIVE_OPTIMIZER='/em/emscripten/optimizer'
+BINARYEN_ROOT='/em/binaryen'
+SPIDERMONKEY_ENGINE = ''
+V8_ENGINE = ''
+TEMP_DIR = '/tmp'
+COMPILER_ENGINE = NODE_JS
+JS_ENGINES = [NODE_JS]
